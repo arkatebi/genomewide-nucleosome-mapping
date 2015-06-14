@@ -1,0 +1,51 @@
+xterm Xt error: Can't open display: 
+xterm:  DISPLAY is not set
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+No window system found.  Java option 'MWT' ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> -------- running PBS epilogue script (8420389.biobos p738 katebiar) --------
+
+Show some job stats:
+
+8420389.biobos elapsed time:        13575 seconds
+8420389.biobos walltime:         03:45:56 hh:mm:ss
+8420389.biobos memory limit:        22.06 GB
+8420389.biobos memory used:          4.57 GB
+8420389.biobos cpupercent used:     98.00 %
+
+housekeeping: p738 System is CentOS/Redhat 5
+
+>>>> Generic: <<<<
+building file list ... done
+etc/
+etc/pam.d/
+etc/rc.d/
+etc/rc.d/init.d/
+root/
+
+sent 979 bytes  received 50 bytes  2058.00 bytes/sec
+total size is 341080  speedup is 331.47
+
+>>>> Generic-static: <<<<
+building file list ... done
+etc/
+etc/pam.d/
+etc/rc.d/
+etc/rc.d/init.d/
+
+sent 1996 bytes  received 44 bytes  4080.00 bytes/sec
+total size is 2743944  speedup is 1345.07
+Updating SSH keys...
+Building ssh_known_hosts and shosts.equiv files...
+
+------------- done PBS epilogue script -------------
