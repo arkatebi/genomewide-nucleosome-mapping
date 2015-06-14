@@ -1,5 +1,4 @@
 function [freqAr ] = dyadFreq(data, sCoord, eCoord)
-%dyadFreq
     r = size(data,1);
     % copy all the dyad coordinates in the range [sCoord eCoord] to newData
     newData = [];
