@@ -1,4 +1,4 @@
-% Calculates DAC profiles for two sets of genes
+% Calculates DAC profiles for a set of genes
 tblDir = [pwd '/tables/'];
 dataSource = 'teif';
 resultDir = [pwd '/results/'];
