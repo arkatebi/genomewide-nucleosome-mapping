@@ -26,7 +26,7 @@ Please, see the References for further datails of these definitions.
 
 ### Requirements 
 * Matlab 2012b or greater
-* Specifically designed to run on NIH biowulf server
+* This toolset is specifically designed to run on NIH biowulf server
 
 ### Software Usage 
 
