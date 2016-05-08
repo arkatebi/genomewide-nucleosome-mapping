@@ -1,4 +1,4 @@
-## Tool for Genomewide Nucleosome Mapping
+## Toolset for Genomewide Nucleosome Mapping
 * Calculates the distance auto-correlation function for a set of genes
 * Calculates the distance cross-correlation function for two sets of genes
 
