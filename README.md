@@ -29,15 +29,28 @@ Please, see the References for further datails of these definitions.
 * Specifically designed to run on NIH biowulf server
 
 ### Software Usage 
-calDacAll.m: computes distance autocorrelation function (DAC) for a set of genes by mapping MNase digested nucleosomes.
 
-calDacPair.m: computes distance autocorrelation function (DAC) for two sets of genes in the same manner as before.
+#### Computing DAC for a set of genes
 
-xDacAll.sh and xDacPair.sh are two shell scripts that invoke the above two functions calDacAll.m and calDacPair.m, respectively.
+calDacAll.m: computes distance autocorrelation function (DAC) for a set 
+of genes by mapping MNase digested nucleosomes.
 
-tables: directory that has the files with the genes and their information 
+xDacAll.sh: shell script that invokes the function calDacAll.m.
 
-results: output directory where the software writes the output (DAC function values).  
+#### Computing DAC for two of genes
+
+calDacPair.m: computes distance autocorrelation function (DAC) for two 
+sets of genes in the same manner as before.
+
+xDacPair.sh: shell script that invokes the above the function calDacPair.m.
+
+##### Data Source
+tables: directory that has the files with the genes and their information used 
+by this software. 
+
+##### Results
+results: output directory where the software writes the output 
+(DAC function values).
 
 ### Source Code
 This is an open source project and the source code is publicly available on
