@@ -2,16 +2,14 @@
 * Calculates the distance autocorrelation function for a set of genes
 * Calculates the distance autocorrelation function for two sets of genes
 
-This directory contains a set of matlab functions that constitute a piece of
-software that can be run on NIH biowulf server. The software calculates the
-distance autocorrelation function for a set of genes or two sets of genes:
+### 
 
 ### Requirements 
 * Matlab 2012b or greater
 * Specifically designed to run on NIH biowulf server
 
 ### Software Usage 
-calDacAll.m: computes distance autocorrelation function (DAC) for a set of genes by mapping MNase digested nucleosomes. 
+calDacAll.m: computes distance autocorrelation function (DAC) for a set of genes by mapping MNase digested nucleosomes.
 
 calDacPair.m: computes distance autocorrelation function (DAC) for two sets of genes in the same manner as before.
 
@@ -22,3 +20,9 @@ tables: directory that has the files with the genes and their information
 results: output directory where the software writes the output (DAC function values).  
 
 Definition of DAC can be found at Cui F, Cole HA, Clark DJ, Zhurkin VB (2012) Transcriptional activation of yeast genes disrupts intragenic nucleosome phasing, Nucleic Acids Research 40(21).
+
+### Source Code
+This is an open source project and the source code is publicly available on
+GitHub through the following URL: https://github.com/arkatebi/genomewide-nucleosome-mapping.
+For questions, please email: Ataur Katebi (arkatebi@gmail.com).
+
