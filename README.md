@@ -1,3 +1,5 @@
+## Tool for Genomewide Nucleosome mapping
+
 This directory contains a set of matlab functions that constitute a piece of 
 software that can be run on NIH biowulf server. The software calculates the 
 distance autocorrelation function for a set of genes or two sets of genes:
