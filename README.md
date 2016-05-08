@@ -37,20 +37,24 @@ of genes by mapping MNase digested nucleosomes.
 
 xDacAll.sh: shell script that invokes the function calDacAll.m.
 
-#### Computing DAC for two of genes
+#### Computing DAC for two sets of genes
 
-calDacPair.m: computes distance autocorrelation function (DAC) for two 
+calDacPair.m: computes distance autocorrelation function (DAC) for two
 sets of genes in the same manner as before.
 
 xDacPair.sh: shell script that invokes the above the function calDacPair.m.
 
 ##### Data Source
-tables: directory that has the files with the genes and their information used 
-by this software. 
+tables: directory that has the files with the genes and their information used
+by this software.
 
 ##### Outputs 
-results: output directory where the software writes the output 
+results: output directory where the software writes the output
 (DAC function values).
+
+### Results 
+Please, find the details of the results and their implications in
+references [1] and [2].
 
 ### Source Code
 This is an open source project and the source code is publicly available on
