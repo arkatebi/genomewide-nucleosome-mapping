@@ -48,7 +48,7 @@ xDacPair.sh: shell script that invokes the above the function calDacPair.m.
 tables: directory that has the files with the genes and their information used 
 by this software. 
 
-##### Results
+##### Outputs 
 results: output directory where the software writes the output 
 (DAC function values).
 
