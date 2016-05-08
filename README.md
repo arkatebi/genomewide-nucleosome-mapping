@@ -1,6 +1,6 @@
 ## Tool for Genomewide Nucleosome Mapping
-* Calculates the distance autocorrelation function for a set of genes
-* Calculates the distance autocorrelation function for two sets of genes
+* Calculates the distance auto-correlation function for a set of genes
+* Calculates the distance cross-correlation function for two sets of genes
 
 ### Some Definitions
 ##### Nucleosome core particle (NCP)
