@@ -10,7 +10,7 @@ octamer, in 1.65 superhelical turns. The histone octamer is a homo-dimer of
 two histone tetramers, each tetramer having four histone proteins (H2A, H2B, 
 H3, and H4).
      
-##### Distance autocorrelation (DAC)
+##### Distance auto-correlation (DAC)
 This function measures the relative positions of nucleosomes. For each
 pair of NCP sequences, first the distance between the NCP start locations are
 calculated. Then, the occurrences of all distances are summed up for both
@@ -20,7 +20,7 @@ strands.
 This is used as a measure to compare the nucleosome positions in two different
 nucleosome fragment datasets. This measure is similar to DAC, however the 
 distances are calculated between the start location of each nucleosome in one 
-dataset and all of the start locations of nucleosome in the other dataset.
+dataset and all of the start locations of nucleosomes in the other dataset.
 
 Please, see the References for further datails of these definitions.
 
