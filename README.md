@@ -22,7 +22,8 @@ nucleosome fragment datasets. This measure is similar to DAC, however the
 distances are calculated between the start location of each nucleosome in one 
 dataset and all of the start locations of nucleosomes in the other dataset.
 
-Please, see the References for further datails of these definitions.
+Please, see the references [1], [2], and [3] for further datails of these 
+definitions.
 
 ### Requirements 
 * Matlab 2012b or greater
